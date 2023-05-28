@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @serishema from new zealand
 - 👀 I’m interested in learning GPU programming. 
-- 🌱 I’m currently learning swift and C++
-- I hope to write my own game engine some day. 
+- 🌱 I’m currently learning javascript, C++ and OpenGL
+
+I'm a recovering java developer ;-) 
+
