@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @serishema from new zealand
 - 👀 I’m interested in learning GPU programming. 
 - 🌱 I’m currently learning javascript, C++ and OpenGL
-- I stream development of personal projects on twitch.
+- ~~I stream development of personal projects on twitch.~~ ( I haven't streamed in a couple of years)
