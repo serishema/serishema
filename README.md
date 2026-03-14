@@ -6,4 +6,5 @@
 - After initally hating them, I have come to find cloud services like codespaces and Azure useful. 
 - I have far more interest areas than I have time to explore
 - I am not actually a professional software developer. I am bodily disabled and do not have anything like as much energy as I would like to be able to dedicate to software development.
-- My repos are littered with unfinished projects, I make the interesting ones public. 
+- My repos are littered with unfinished projects, I make the interesting ones public.
+- I am starting to experiment with AI coding assistants, but my mind is not made up on whether they are harmful or helpful. I suspect the answer is more nuanced. 
