@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @serishema from new zealand
-- 👀 I’m interested in learning GPU programming. 
-- 🌱 I’m currently learning javascript, C++ and OpenGL
+- 👀 I’m interested in learning GPU programming, but never had the time or energy to actually do it. 
+- 🌱 ~~I’m currently learning javascript, C++ and OpenGL~~ I have moved on to typescript and rust
 - ~~I stream development of personal projects on twitch.~~ ( I haven't streamed in a couple of years)
+- After initally hating them, I have come to embrace HTML5/Javascript app frameworks as nessecary for cross platform UI development. I realized I can still write the actual engine of an app in a native language like C or rust and use web tech for the UI layer.
+- After initally hating them, I have come to find cloud services like codespaces and Azure useful. 
+- I have far more interest areas than I have time to explore
+- I am not actually a professional software developer. I am bodily disabled and do not have anything like as much energy as I would like to be able to dedicate to software development.
+- My repos are littered with unfinished projects, I make the interesting ones public. 
